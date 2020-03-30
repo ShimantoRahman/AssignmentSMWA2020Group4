@@ -76,8 +76,8 @@ Model consists of:
 ## Scrape Data
 Scrape_Data consists of:
 1. Scrape_Data.R
-  1.1 Scrapes the movie's twitter profile tweets and tweets from each movie's respective hashtag
-  1.2. Stored in data/twitter
+  1.1 Scrapes the movie's twitter profile tweets and tweets from each movie's respective hashtag  
+  1.2. Stored in data/twitter  
 2. Imdb_Scrape.ipynb  
   2.1 Python notebook file that scrapes the imdb pages of all the movies  
   2.2 Follows links to user and critic reviews  
